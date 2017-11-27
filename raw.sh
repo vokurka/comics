@@ -1,0 +1,1 @@
+wget -i weeks_list
